@@ -14,11 +14,22 @@ Artificial Neural Networks (ANN) are multi-layer fully-connected neural nets tha
 ### Models with their Accuracy of Prediction
 - Accuracy of the model is 86%  
 - I have done the Hyperparameter tuning and finally reached the accuracy of 91%
+## Dependencies
+``` 
+ Keras
+ Tensorflow V2.6.0
+ Pandas
+ Scikit-Learn
+ Numpy
+ python 3.9
+ 
+```
 
-### NOTE
-==> Python version 3.9.0 was used for the project.
+## Usage
 
-==> Tensorflow with version greater than 2.0.
+Just run `jupyter notebook` in terminal and it will run in your browser.
+
+Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
 
 ### Links for Python Notebooks used for model creation
 - https://github.com/rahkum96/Churn-Modelling-Artificial-Neural-Network/blob/main/Churn_Modelling_ANN_model.ipynb

@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/86415241/134725649-fff4c091-fee9-4745-a786-063e99305cd6.png)
 
-### About
+## About
 This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.We have to build the model whether the customer left the bank (closed his account) or he continues to be a customer.
 
 ## Model
@@ -31,6 +31,7 @@ Just run `jupyter notebook` in terminal and it will run in your browser.
 
 Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
 
+
 ## Links for Python Notebooks used for model creation
 - https://github.com/rahkum96/Churn-Modelling-Artificial-Neural-Network/blob/main/Churn_Modelling_ANN_model.ipynb
 - https://github.com/rahkum96/Churn-Modelling-Artificial-Neural-Network/blob/main/Churn_Modelling_ANN_Hyperparameter.ipynb
@@ -39,6 +40,7 @@ Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i'v
 ## Steps to run this application in your system
 - Clone or download the repo.
 - Open command prompt in the downloaded folder.
+
 
 ## Dataset link
 https://www.kaggle.com/shrutimechlearn/churn-modelling

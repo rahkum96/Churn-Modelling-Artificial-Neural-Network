@@ -37,11 +37,11 @@ Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i'v
 - https://github.com/rahkum96/Churn-Modelling-Artificial-Neural-Network/blob/main/Churn_Modelling_ANN_Hyperparameter.ipynb
 
 
-## Steps to run this application in your system
+## Steps to run this application in your system:
 - Clone or download the repo.
 - Open command prompt in the downloaded folder.
 
 
-## Dataset link
+## Dataset link:
 https://www.kaggle.com/shrutimechlearn/churn-modelling
 

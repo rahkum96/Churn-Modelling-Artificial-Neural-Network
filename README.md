@@ -5,7 +5,7 @@
 ## About
 This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.We have to build the model whether the customer left the bank (closed his account) or he continues to be a customer.
 
-## Model
+## Model 
 Artificial Neural Networks (ANN) are multi-layer fully-connected neural nets that look like the figure below. They consist of an input layer, multiple hidden layers, and an output layer. Every node in one layer is connected to every other node in the next layer. We make the network deeper by increasing the number of hidden layers.
 
 ![image](https://user-images.githubusercontent.com/86415241/134725934-69832a2a-8398-4f2e-acd3-d08411922306.png)
